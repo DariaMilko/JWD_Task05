@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+    <food>
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <description>
+            Two of our famous Belgian Waffles with plenty of real maple syrup
+        </description>
+        <calories>650</calories>
+    </food>
+    <food>
+        <name>Strawberry Belgian Waffles</name>
+        <price>$7.95</price>
+        <description>
+            Light Belgian waffles covered with strawberries and whipped cream
+        </description>
+        <calories>900</calories>
+    </food>
+    <food>
+        <name>Russian Pancakes</name>
+        <price>$12.80</price>
+        <description>
+            Russian pancakes with caviar and sour cream
+        </description>
+        <calories>500</calories>
+    </food>
+    <food>
+        <name>Bacon With Eggs</name>
+        <price>$6.20</price>
+        <description>
+            Thick slices of bacon with fried eggs, a slice of toasted bread and tomatoes
+        </description>
+        <calories>475</calories>
+    </food>
+</breakfast_menu>
